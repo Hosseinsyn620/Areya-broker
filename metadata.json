@@ -1,0 +1,6 @@
+{
+  "name": "بروکر آریا تریدر | AriaTrader Broker",
+  "description": "پلتفرم جامع بروکر معاملات طلا، فارکس و رمزارز با چارت زنده بازار، اهرم معاملاتی، کیف پول اختصاصی و شارژ کارت به کارت مخصوص کاربران ایران",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
